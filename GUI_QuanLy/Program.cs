@@ -18,6 +18,7 @@ namespace GUI_QuanLy
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            Console.WriteLine("Test push");
         }
     }
 }
