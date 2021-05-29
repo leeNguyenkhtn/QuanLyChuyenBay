@@ -1,0 +1,23 @@
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\bin\Debug\netcoreapp3.1\QuanLyBanVeMayBay.exe
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\bin\Debug\netcoreapp3.1\QuanLyBanVeMayBay.deps.json
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\bin\Debug\netcoreapp3.1\QuanLyBanVeMayBay.runtimeconfig.json
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\bin\Debug\netcoreapp3.1\QuanLyBanVeMayBay.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\bin\Debug\netcoreapp3.1\QuanLyBanVeMayBay.dll
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\bin\Debug\netcoreapp3.1\QuanLyBanVeMayBay.pdb
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.Menu.resources
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.dll
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.pdb
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.genruntimeconfig.cache
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.Input.resources
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.Menu - Copy.resources
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.Properties.Resources.resources
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.Search.resources
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.Book.resources
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.Change.resources
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.Sell.resources
+C:\Users\Admin\source\repos\QuanLyBanVeMayBay\obj\Debug\netcoreapp3.1\QuanLyBanVeMayBay.Total.resources
